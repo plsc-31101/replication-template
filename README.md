@@ -1,4 +1,4 @@
-This is a template you can use for your final project. Fill in each section with information on your own project.
+This is a template you can use for replication code. Fill in each section with information on your own project.
 
 ## Short Description
 
@@ -9,9 +9,9 @@ Give a short, 1-2 paragraph description of your project. Focus on the code, not 
 List what software your code depends on, as well as version numbers, like so:.
 
 1. R, version 3.1
-2. Python 2.7, Anaconda distribution.
+2. Python, version 2.7, Anaconda distribution.
 
-(In your code itself, includes commands that install required packages.)
+(In your scripts, includes commands that install required packages.)
 
 ## Files
 
