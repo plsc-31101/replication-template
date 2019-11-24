@@ -1,0 +1,21 @@
+---
+title: "Narrative"
+author: "Rochelle Terman"
+date: "11/24/2019"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Brief substantive background / goal
+
+## Collecting data
+
+## Cleaning / pre-processing data
+
+## Analysis and visualization
+
+## Future work
+
